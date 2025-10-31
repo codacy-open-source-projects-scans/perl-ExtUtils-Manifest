@@ -1,0 +1,8 @@
+/.ackrc
+!/.appveyor.yml
+/.build/
+!/.gitignore
+/.latest
+!/.travis.yml
+/ExtUtils-Manifest-*/
+/ExtUtils-Manifest-*.tar.gz
